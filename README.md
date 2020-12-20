@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <div class="title">hiii</title>
+        <div class="title">hiii
     </head>
     <body>
         <p>This is an example of a simple HTML page with one paragraph.</p>
